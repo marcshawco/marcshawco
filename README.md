@@ -44,4 +44,4 @@ When something breaks I write down what the error actually said, what I thought 
 
 ## Contact
 
-[marcus@marcusshaw.com](mailto:marcus@marcusshaw.com)
+Los Angeles, CA · [marcus@marcusshaw.com](mailto:marcus@marcusshaw.com) · [marcshaw.co](https://marcshaw.co)
