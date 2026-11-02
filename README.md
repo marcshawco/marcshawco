@@ -18,7 +18,7 @@ Every lab includes a troubleshooting section covering what actually went wrong, 
 |---|---|---|
 | [ATHENS](https://github.com/marcshawco/Athenaeum) | Local-first macOS document library. Imports documents into a sandboxed vault, extracts searchable text, and answers questions across the archive with on-device retrieval. Nothing leaves the Mac. | SwiftUI, SwiftData, Vision, PDFKit, llama.cpp |
 | [PULDAR](https://github.com/marcshawco/PULDAR) | Offline-first iOS budgeting app. Turns plain-English entries like "spent 45 at whole foods" into structured transactions, and scans receipts with on-device OCR. No backend, no cloud parsing. | SwiftUI, SwiftData, CloudKit, VisionKit, WidgetKit |
-| [GAMELIFE](https://github.com/marcshawco/GAMELIFE) | iOS behaviour engine that turns real-world execution into RPG progression. Quests track themselves through HealthKit and location, and bosses take damage from actual metrics like savings, sleep and body composition. | SwiftUI, HealthKit, CoreLocation, CloudKit, WidgetKit, watchOS |
+| [PRAXIS](https://github.com/marcshawco/GAMELIFE) | iOS behaviour engine that turns real-world execution into RPG progression. Quests track themselves through HealthKit and location, and bosses take damage from actual metrics like savings, sleep and body composition. | SwiftUI, HealthKit, CoreLocation, CloudKit, WidgetKit, watchOS |
 
 ATHENS is the one I would point at if you want to see how I handle a problem with real constraints. Running language models on a laptop means budgeting threads against performance cores, releasing multi-gigabyte memory under pressure, and cleaning up child processes that macOS will not kill for you. Those are not tutorial problems.
 
